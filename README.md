@@ -34,7 +34,7 @@
     <th>AI / ML</th>
     <th>Databases & Backend</th>
     <th>Cloud & DevOps</th>
-    <th>Tools & Platforms</th>
+    <th>Cybersecurity</th>
   </tr>
   <tr>
     <td align="center">
@@ -59,12 +59,21 @@
       <br>
       <img src="https://img.shields.io/badge/AWS%20Cognito-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
-      <br><br>
-      Jupyter Notebook · Jira
-    </td>
+<td align="center">
+  <img src="https://nmap.org/images/nmap-logo-64px.png" width="45"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" width="45"/>
+  <img src="https://cdn.simpleicons.org/wireshark" width="45"/>
+  <img src="https://cdn.simpleicons.org/metasploit" width="45"/>
+  <img src="https://cdn.simpleicons.org/hashcat" width="45"/>
+  <br><br>
+  Nmap · Burp Suite · Wireshark · Metasploit · Hashcat
+  <br><br>
+<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/file-icons/icons/svg/Nessus.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fail2ban.png" width="45"/>
+<img src="https://raw.githubusercontent.com/Ettercap/ettercap.github.io/master/logo-small.png" width="45"/>
+<br><br>
+John the Ripper · Nessus · Fail2Ban · Ettercap
   </tr>
 </table>
 
