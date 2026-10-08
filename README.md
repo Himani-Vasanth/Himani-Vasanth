@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td align="center">
-    <img src="https://skillicons.dev/icons?i=python, cpp,java,c,typescript,javascript&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,c,typescript,javascript&theme=light" />
     <br><br>
     Python · C++ · Java · C · TypeScript · JavaScript
     </td>
