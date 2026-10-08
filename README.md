@@ -13,9 +13,9 @@
   </tr>
   <tr>
     <td align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,c,typescript,html,css,javascript&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python, cpp,java,c,typescript,javascript&theme=light" />
     <br><br>
-    C++ · Python · Java · C · TypeScript · HTML · CSS · JavaScript
+    Python · C++ · Java · C · TypeScript · JavaScript
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,spring,flutter&theme=light" />
