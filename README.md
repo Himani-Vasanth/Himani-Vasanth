@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=38&duration=5000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Himani+%F0%9F%91%8B&loop=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=38&duration=5000&pause=9999999&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Himani+%F0%9F%91%8B&loop=false)](https://git.io/typing-svg)
 
 </div>
 
@@ -74,5 +74,17 @@
 John the Ripper · Nessus · Fail2Ban · Ettercap
   </tr>
 </table>
+
+ <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=38&duration=5000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Let's+Connect+%F0%9F%A4%9D&loop=false)](https://git.io/typing-svg)
+
+<a href="mailto:himanivasanth01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0969DA?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" height="48" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/himanivasanth/">
+  <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" height="48" alt="LinkedIn" />
+</a>
 
 </div>
